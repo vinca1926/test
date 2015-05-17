@@ -1,0 +1,36 @@
+.description{
+	color:red;
+    max-width:705px;
+    margin: 30px
+	
+}
+.MyApp{
+	color:white;
+	font:size:60px;
+	background: blue;
+	max-width: 1110px;
+	min-height: 100px;
+
+}
+.screenshot{
+	max-width: 405px;
+	margin: 20px
+	
+}
+.app {
+    display: flex;
+}
+
+	
+	* {
+   outline: 1px solid blue !important;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+
+}
